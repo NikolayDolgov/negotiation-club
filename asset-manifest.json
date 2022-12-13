@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/negotiation-club/static/css/main.073c9b0a.css",
-    "main.js": "/negotiation-club/static/js/main.dffa6c61.js",
+    "main.css": "/negotiation-club/static/css/main.60429714.css",
+    "main.js": "/negotiation-club/static/js/main.8cb9408e.js",
     "static/js/787.4311c352.chunk.js": "/negotiation-club/static/js/787.4311c352.chunk.js",
-    "static/media/logo.svg": "/negotiation-club/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/SFProDisplay-Regular.ttf": "/negotiation-club/static/media/SFProDisplay-Regular.6b109fecbc7563467e36.ttf",
+    "static/media/SFProDisplay-Regular.woff": "/negotiation-club/static/media/SFProDisplay-Regular.7ee14c637e39445d7093.woff",
+    "static/media/SFProDisplay-Regular.woff2": "/negotiation-club/static/media/SFProDisplay-Regular.d5ff9f6824d2c6607361.woff2",
+    "static/media/material-symbols_dark-mode-outline-rounded.svg": "/negotiation-club/static/media/material-symbols_dark-mode-outline-rounded.55cd9bc6df9b9286dbd0.svg",
+    "static/media/repeat.svg": "/negotiation-club/static/media/repeat.6f827e0edfa8e793d10e.svg",
+    "static/media/settings.svg": "/negotiation-club/static/media/settings.59b1fb5ed75f6def3e28.svg",
     "index.html": "/negotiation-club/index.html",
-    "main.073c9b0a.css.map": "/negotiation-club/static/css/main.073c9b0a.css.map",
-    "main.dffa6c61.js.map": "/negotiation-club/static/js/main.dffa6c61.js.map",
+    "static/media/pause.svg": "/negotiation-club/static/media/pause.10db9567f44e84be1a9a.svg",
+    "main.60429714.css.map": "/negotiation-club/static/css/main.60429714.css.map",
+    "main.8cb9408e.js.map": "/negotiation-club/static/js/main.8cb9408e.js.map",
     "787.4311c352.chunk.js.map": "/negotiation-club/static/js/787.4311c352.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dffa6c61.js"
+    "static/css/main.60429714.css",
+    "static/js/main.8cb9408e.js"
   ]
 }
