@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/negotiation-club/static/css/main.5d605a74.css",
-    "main.js": "/negotiation-club/static/js/main.d3c1e68d.js",
+    "main.js": "/negotiation-club/static/js/main.afa9bd78.js",
     "static/js/787.4311c352.chunk.js": "/negotiation-club/static/js/787.4311c352.chunk.js",
     "static/media/SFProDisplay-Regular.ttf": "/negotiation-club/static/media/SFProDisplay-Regular.6b109fecbc7563467e36.ttf",
     "static/media/SFUIText-Bold.ttf": "/negotiation-club/static/media/SFUIText-Bold.a2580a5ed61544f9dfc6.ttf",
@@ -16,11 +16,11 @@
     "index.html": "/negotiation-club/index.html",
     "static/media/desktop.svg": "/negotiation-club/static/media/desktop.4ef95ba636c8840689d5.svg",
     "main.5d605a74.css.map": "/negotiation-club/static/css/main.5d605a74.css.map",
-    "main.d3c1e68d.js.map": "/negotiation-club/static/js/main.d3c1e68d.js.map",
+    "main.afa9bd78.js.map": "/negotiation-club/static/js/main.afa9bd78.js.map",
     "787.4311c352.chunk.js.map": "/negotiation-club/static/js/787.4311c352.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d605a74.css",
-    "static/js/main.d3c1e68d.js"
+    "static/js/main.afa9bd78.js"
   ]
 }
