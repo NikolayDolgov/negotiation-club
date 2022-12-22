@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/negotiation-club/static/css/main.61781595.css",
-    "main.js": "/negotiation-club/static/js/main.8597c4a7.js",
+    "main.css": "/negotiation-club/static/css/main.9d12bd26.css",
+    "main.js": "/negotiation-club/static/js/main.f2ca960e.js",
     "static/js/787.4311c352.chunk.js": "/negotiation-club/static/js/787.4311c352.chunk.js",
     "static/media/SFUIText-HeavyItalic.eot": "/negotiation-club/static/media/SFUIText-HeavyItalic.4bf19ee7f49d0b442d47.eot",
     "static/media/SFUIText-HeavyItalic.ttf": "/negotiation-club/static/media/SFUIText-HeavyItalic.f1debd242cc8e8d58348.ttf",
@@ -87,15 +87,17 @@
     "static/media/SFUIText-Regular.woff2": "/negotiation-club/static/media/SFUIText-Regular.9403f100f8ecaac50c42.woff2",
     "static/media/SFUIDisplay-Black.woff2": "/negotiation-club/static/media/SFUIDisplay-Black.781a547683879befeb34.woff2",
     "static/media/SFUIDisplay-Regular.woff2": "/negotiation-club/static/media/SFUIDisplay-Regular.d5b1bd49ba459767871a.woff2",
+    "static/media/sun_active.svg": "/negotiation-club/static/media/sun_active.828ed724f620d6050e55.svg",
     "static/media/sun.svg": "/negotiation-club/static/media/sun.b447fbc69f0674027a0b.svg",
+    "static/media/moon_active.svg": "/negotiation-club/static/media/moon_active.6e03a27d1e91731f7472.svg",
     "static/media/moon.svg": "/negotiation-club/static/media/moon.3e00213f49aa272a9d2c.svg",
     "index.html": "/negotiation-club/index.html",
-    "main.61781595.css.map": "/negotiation-club/static/css/main.61781595.css.map",
-    "main.8597c4a7.js.map": "/negotiation-club/static/js/main.8597c4a7.js.map",
+    "main.9d12bd26.css.map": "/negotiation-club/static/css/main.9d12bd26.css.map",
+    "main.f2ca960e.js.map": "/negotiation-club/static/js/main.f2ca960e.js.map",
     "787.4311c352.chunk.js.map": "/negotiation-club/static/js/787.4311c352.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61781595.css",
-    "static/js/main.8597c4a7.js"
+    "static/css/main.9d12bd26.css",
+    "static/js/main.f2ca960e.js"
   ]
 }
