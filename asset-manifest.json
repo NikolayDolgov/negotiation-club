@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/negotiation-club/static/css/main.9d12bd26.css",
-    "main.js": "/negotiation-club/static/js/main.f2ca960e.js",
+    "main.css": "/negotiation-club/static/css/main.1cae26b7.css",
+    "main.js": "/negotiation-club/static/js/main.c72c9446.js",
     "static/js/787.4311c352.chunk.js": "/negotiation-club/static/js/787.4311c352.chunk.js",
     "static/media/SFUIText-HeavyItalic.eot": "/negotiation-club/static/media/SFUIText-HeavyItalic.4bf19ee7f49d0b442d47.eot",
     "static/media/SFUIText-HeavyItalic.ttf": "/negotiation-club/static/media/SFUIText-HeavyItalic.f1debd242cc8e8d58348.ttf",
@@ -92,12 +92,12 @@
     "static/media/moon_active.svg": "/negotiation-club/static/media/moon_active.6e03a27d1e91731f7472.svg",
     "static/media/moon.svg": "/negotiation-club/static/media/moon.3e00213f49aa272a9d2c.svg",
     "index.html": "/negotiation-club/index.html",
-    "main.9d12bd26.css.map": "/negotiation-club/static/css/main.9d12bd26.css.map",
-    "main.f2ca960e.js.map": "/negotiation-club/static/js/main.f2ca960e.js.map",
+    "main.1cae26b7.css.map": "/negotiation-club/static/css/main.1cae26b7.css.map",
+    "main.c72c9446.js.map": "/negotiation-club/static/js/main.c72c9446.js.map",
     "787.4311c352.chunk.js.map": "/negotiation-club/static/js/787.4311c352.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d12bd26.css",
-    "static/js/main.f2ca960e.js"
+    "static/css/main.1cae26b7.css",
+    "static/js/main.c72c9446.js"
   ]
 }
